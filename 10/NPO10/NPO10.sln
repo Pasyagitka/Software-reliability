@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPO10", "NPO10\NPO10.csproj", "{2CC7C3B4-9B71-4F55-933F-C5822FE1E3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC7C3B4-9B71-4F55-933F-C5822FE1E3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC7C3B4-9B71-4F55-933F-C5822FE1E3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC7C3B4-9B71-4F55-933F-C5822FE1E3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC7C3B4-9B71-4F55-933F-C5822FE1E3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
